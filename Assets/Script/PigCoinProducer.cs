@@ -22,7 +22,6 @@ public class PigCoinProducer : MonoBehaviour
         coinTarget = target;
 
         ResetTimer();
-        Debug.Log("Pig coin producer initialized!");
     }
     // calculate the coin rate.
     public float GetCoinRate()
@@ -56,9 +55,6 @@ public class PigCoinProducer : MonoBehaviour
 
     void ProduceCoin()
     {
-        Debug.Log(
-        "Producing coin from: " + gameObject.name
-    );
         RectTransform pigRect =
             GetComponent<RectTransform>();
 
