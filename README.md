@@ -46,18 +46,18 @@ Pigcremental is a lightweight incremental game focused on:
 - [x] Feed Pig button
 - [x] Basic UI layout
 - [x] Imported UI asset pack
-- [ ] Spinning pig visual
-- [ ] Pig-per-second production
-- [ ] Basic currency system, used to feed pigs and upgrade
-- [ ] Timeline system, the game processes naturally with time
-- [ ] prototype finishing goal, reaching X pigs
+- [x] Spinning pig visual
+- [x] coin-per-second production
+- [x] Basic currency system, used to buy basic pigs
+- [x] Timeline system, the game processes naturally with time
 
-### Phase 2 - upgrade system
-- [ ] The first pack of pigs are set in the modern era farming
-- [ ] farming machines
-- [ ] worker pigs
-- [ ] more pig emoji to show different jobs
-- [ ] introduce different aspect of the pig civilization, not only food and farming.
+### Phase 2 - upgrade system 1 
+- [ ] Pop up event after pig numbers are reached!
+- [ ] Unlocks the farmer pig (event pop up)
+- [ ] Farmer pig card
+- [ ] Advanced farmer pig
+- [ ] Shrink the display of pigs after reaching a number
+
 
 ### Phase 2.5 - File system 
 - [ ] Save and load system with 3 slots.
