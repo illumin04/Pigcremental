@@ -51,16 +51,19 @@ Pigcremental is a lightweight incremental game focused on:
 - [x] Basic currency system, used to buy basic pigs
 - [x] Timeline system, the game processes naturally with time
 
-### Phase 2 - upgrade system 1 
+### Phase 2 - upgrade system 1 Farm
 - [ ] Pop up event after pig numbers are reached!
 - [ ] Unlocks the farmer pig (event pop up)
 - [ ] Farmer pig card
 - [ ] Advanced farmer pig
 - [ ] Shrink the display of pigs after reaching a number
-
+- [ ] Various milestone that gives additional boost to the player(can be events)
+- [ ] Set a ultimate goal for the Farming era
+- [ ] Develope a UI for displaying farming levels (more category in the future need to be easily added)
+- [ ] Mark a ultimate number point for the pig civilization
 
 ### Phase 2.5 - File system 
 - [ ] Save and load system with 3 slots.
 
 ### Phase 3 - Random events
-- [] Random events that can happen along the way.
+- [ ] Random events that can happen along the way.

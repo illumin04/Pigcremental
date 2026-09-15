@@ -15,7 +15,7 @@ MonoBehaviour:
   eventId: lucky_pig_01
   title: Lucky pig!
   description: A pig found coins in the mud
-  icon: {fileID: 0}
+  icon: {fileID: -5792511334730316588, guid: 9da404f8bbcc2bd438b944e09fc0b3a6, type: 3}
   buttonText: Great!
   minimumCoins: 20
   minimumPigs: 1
